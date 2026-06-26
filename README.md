@@ -4,7 +4,7 @@ A web app that reads a sentence and classifies it as **positive**,
 **negative**, or **neutral** in real time, using a TF-IDF + Logistic
 Regression NLP pipeline served through a Flask API.
 
-![App screenshot](![Uploading screenshot.png.png…]()
+![App screenshot](screenshot.png.png)
 )
 
 ## Features
