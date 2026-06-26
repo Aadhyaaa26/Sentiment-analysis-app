@@ -5,7 +5,6 @@ A web app that reads a sentence and classifies it as **positive**,
 Regression NLP pipeline served through a Flask API.
 
 ![App screenshot](screenshot.png.png)
-)
 
 ## Features
 
